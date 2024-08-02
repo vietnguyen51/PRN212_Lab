@@ -1,4 +1,4 @@
-﻿namespace BusinessObjects
+﻿namespace Repositories
 {
     public class Class1
     {
