@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{848B1504-7D4D-4108-A61C-8B3DC9A12653}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hanfr\\downloads\\k\u00EC 5\\prn212\\lab\\lab\\productmanagementdemo\\dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848B1504-7D4D-4108-A61C-8B3DC9A12653}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44296E3-F736-42B4-9F25-EE536BE048C5}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\hanfr\\downloads\\k\u00EC 5\\prn212\\lab\\lab\\productmanagementdemo\\businessobjects\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44296E3-F736-42B4-9F25-EE536BE048C5}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\DataAccessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\DataAccessLayer\\Class1.cs",
+              "RelativeToolTip": "DataAccessLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:16:19.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\BusinessObjects\\Class1.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Class1.cs",
+              "ToolTip": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\BusinessObjects\\Class1.cs",
+              "RelativeToolTip": "BusinessObjects\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:14:36.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
