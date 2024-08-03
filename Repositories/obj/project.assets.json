@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "BusinessObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BusinessObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessObjects.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BusinessObjects/1.0.0": {
+      "type": "project",
+      "path": "../BusinessObjects/BusinessObjects.csproj",
+      "msbuildProject": "../BusinessObjects/BusinessObjects.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "BusinessObjects >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\hanfr\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\hanfr\\Downloads\\KÌ 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "C:\\Users\\hanfr\\Downloads\\KÌ 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

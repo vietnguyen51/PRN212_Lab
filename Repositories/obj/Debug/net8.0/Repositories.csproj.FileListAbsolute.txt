@@ -1,0 +1,16 @@
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\hanfr\Downloads\KÌ 5\PRN212\LAB\Lab\ProductManagementDemo\Repositories\obj\Debug\net8.0\ref\Repositories.dll
