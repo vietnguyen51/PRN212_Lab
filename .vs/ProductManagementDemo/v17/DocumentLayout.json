@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{848B1504-7D4D-4108-A61C-8B3DC9A12653}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hanfr\\downloads\\k\u00EC 5\\prn212\\lab\\lab\\productmanagementdemo\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{848B1504-7D4D-4108-A61C-8B3DC9A12653}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44296E3-F736-42B4-9F25-EE536BE048C5}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\hanfr\\downloads\\k\u00EC 5\\prn212\\lab\\lab\\productmanagementdemo\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A44296E3-F736-42B4-9F25-EE536BE048C5}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{848B1504-7D4D-4108-A61C-8B3DC9A12653}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hanfr\\downloads\\k\u00EC 5\\prn212\\lab\\lab\\productmanagementdemo\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{848B1504-7D4D-4108-A61C-8B3DC9A12653}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{848B1504-7D4D-4108-A61C-8B3DC9A12653}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hanfr\\downloads\\k\u00EC 5\\prn212\\lab\\lab\\productmanagementdemo\\dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{848B1504-7D4D-4108-A61C-8B3DC9A12653}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44296E3-F736-42B4-9F25-EE536BE048C5}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\hanfr\\downloads\\k\u00EC 5\\prn212\\lab\\lab\\productmanagementdemo\\businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A44296E3-F736-42B4-9F25-EE536BE048C5}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A44296E3-F736-42B4-9F25-EE536BE048C5}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\hanfr\\downloads\\k\u00EC 5\\prn212\\lab\\lab\\productmanagementdemo\\businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A44296E3-F736-42B4-9F25-EE536BE048C5}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A44296E3-F736-42B4-9F25-EE536BE048C5}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\hanfr\\downloads\\k\u00EC 5\\prn212\\lab\\lab\\productmanagementdemo\\businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A44296E3-F736-42B4-9F25-EE536BE048C5}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{848B1504-7D4D-4108-A61C-8B3DC9A12653}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hanfr\\downloads\\k\u00EC 5\\prn212\\lab\\lab\\productmanagementdemo\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848B1504-7D4D-4108-A61C-8B3DC9A12653}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,101 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountDAO.cs",
-              "DocumentMoniker": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\DataAccessLayer\\AccountDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\AccountDAO.cs",
-              "ToolTip": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\DataAccessLayer\\AccountDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T04:11:52.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryDAO.cs",
-              "DocumentMoniker": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\DataAccessLayer\\CategoryDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
-              "ToolTip": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\DataAccessLayer\\CategoryDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T04:09:03.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\BusinessObjects\\Category.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Category.cs",
-              "ToolTip": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\BusinessObjects\\Category.cs",
-              "RelativeToolTip": "BusinessObjects\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T04:09:51.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\BusinessObjects\\Product.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
-              "ToolTip": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\BusinessObjects\\Product.cs",
-              "RelativeToolTip": "BusinessObjects\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T04:11:25.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "AccountMember.cs",
               "DocumentMoniker": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\BusinessObjects\\AccountMember.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\AccountMember.cs",
               "ToolTip": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\BusinessObjects\\AccountMember.cs",
               "RelativeToolTip": "BusinessObjects\\AccountMember.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T04:11:14.801Z",
+              "WhenOpened": "2024-08-04T04:29:17.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AccountDAO.cs",
+              "ToolTip": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:27:29.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductDAO.cs",
               "DocumentMoniker": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\DataAccessLayer\\ProductDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
               "ToolTip": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\DataAccessLayer\\ProductDAO.cs",
               "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T04:09:02.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BusinessObjects",
-              "DocumentMoniker": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
-              "RelativeDocumentMoniker": "BusinessObjects\\BusinessObjects.csproj",
-              "ToolTip": "C:\\Users\\hanfr\\Downloads\\K\u00CC 5\\PRN212\\LAB\\Lab\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
-              "RelativeToolTip": "BusinessObjects\\BusinessObjects.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-03T04:17:20.043Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:14:15.532Z",
               "EditorCaption": ""
             }
           ]
